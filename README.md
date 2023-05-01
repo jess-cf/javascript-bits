@@ -1,1 +1,1 @@
-Add https://youtu.be/q7LwPoM7tSQ to guides/yolo-performance-metrics.md (#8114)
+ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
