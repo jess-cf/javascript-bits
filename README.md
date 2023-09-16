@@ -1,1 +1,1 @@
-ultralytics 8.1.30 add advanced HUB train arguments (#9110)
+Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
