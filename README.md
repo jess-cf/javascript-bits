@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
